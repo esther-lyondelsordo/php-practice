@@ -1,5 +1,5 @@
 <?php
-// Objects, Classes and Inheritance exercise from learn-php.org
+// Objects, Classes and Inheritance exercise from the fantastic learn-php.org
 // Implement the Car class here
 class Car {
     public function __construct($brand, $year) {
