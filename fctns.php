@@ -1,4 +1,4 @@
-// function exercise learn-php.org
+// function exercise from learn-php.org
 <?php
 // Write the function squared_sum here
 function squared_sum($numbers) {
