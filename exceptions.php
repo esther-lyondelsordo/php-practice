@@ -1,4 +1,4 @@
-// Exceptions exercise from learn-php.org
+// Exceptions exercise from the fantastic learn-php.org
 <?php
 # This function will throw an exception!
 function throw_exception() {
