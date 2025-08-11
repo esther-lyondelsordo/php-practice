@@ -176,3 +176,5 @@ Now that everything is set up, let's create a simple PHP application.
 6.  **Test Your App:** Open your web browser and navigate to `http://localhost:8080`. You should now see "Hello World" followed by a detailed table with your PHP configuration information.
 
 Congratulations! You have successfully set up a PHP web application with Nginx on your M4 Macbook Pro. You can now start building more complex PHP applications in your local development environment.
+
+This Document was created with Google Gemini.
