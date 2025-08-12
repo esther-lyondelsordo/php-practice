@@ -6,5 +6,6 @@
     <body>
         <?php echo '<p>Hello World</p>'; ?>
         <?php phpinfo(); ?>
+        <?php include 'footer.php';?>
     </body>
 </html>
