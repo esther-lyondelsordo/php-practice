@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php echo '<p>Hello World</p>'; ?>
-        <?php require 'noFileExists.php';
+        <?php require 'vars.php';
         echo "I have a $color $car.";
         ?>
         <?php phpinfo(); ?>
